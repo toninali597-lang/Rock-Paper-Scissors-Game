@@ -1,5 +1,4 @@
 # 🎮 Rock Paper Scissors Game
-![Game Screenshot](./screenshot.png.png)
 <p align="center">
   <img src="./screenshot.png.png" width="100%">
 </p>
