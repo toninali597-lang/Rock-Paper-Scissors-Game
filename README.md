@@ -1,5 +1,6 @@
 # 🎮 Rock Paper Scissors Game
-![Game Screenshot](screenshot.png)
+![Game Screenshot](./screenshot.png)
+
 A console-based **Rock Paper Scissors** game developed in **C++** using functions. The player competes against the computer through multiple rounds, with random computer choices, colored console output, and final game statistics.
 
 ---
